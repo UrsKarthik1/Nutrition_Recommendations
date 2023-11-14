@@ -1,0 +1,1 @@
+lunch_names = [name.strip
